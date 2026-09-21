@@ -1,16 +1,19 @@
-## Hi there 👋
+# Привет, я Олег 👋
 
-<!--
-**OlegTerekhov/OlegTerekhov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Frontend-разработчик**  
+Делаю адаптивные сайты, лендинги и каталоги на HTML, CSS и JavaScript.
 
-Here are some ideas to get you started:
+### Технологии
+`HTML5` · `CSS3` · `JavaScript` · `Git` · `Figma` · `Адаптивная вёрстка`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Мои проекты
+
+**[Anapa Cosmetics](https://olegterekhov.github.io/Anapa-cosmetics/)**  
+Коммерческий сайт косметического бренда с каталогом, фильтрацией и корзиной
+
+**[RUDER Shop](https://olegterekhov.github.io/RUDERSHOP/)**  
+Сайт-каталог бренда одежды с интерактивной корзиной, модальными окнами и анимациями
+
+### Контакты
+- Instagram: @terex.299
+- Email: oterex1995@gmail.com
