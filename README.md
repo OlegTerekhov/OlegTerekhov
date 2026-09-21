@@ -14,6 +14,8 @@
 **[RUDER Shop](https://olegterekhov.github.io/RUDERSHOP/)**  
 Сайт-каталог бренда одежды с интерактивной корзиной, модальными окнами и анимациями
 
+**[Zenith](https://olegterekhov.github.io/zenith-landing/)** — современный лендинг онлайн-курса с тёмной/светлой темой
+
 ### Контакты
 - Instagram: @terex.299
 - Email: oterex1995@gmail.com
