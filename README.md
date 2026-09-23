@@ -1,5 +1,5 @@
  Олег Терехов
-**Frontend Developer**
+Frontend Developer
 
 Создаю современные адаптивные сайты, лендинги и небольшие веб-приложения на чистом HTML, CSS и JavaScript.
 
